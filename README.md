@@ -1,3 +1,3 @@
 # programming
 
-GitHub repo forked from https://github.com/ds4e/programmingLinks. Work is in the assignments folder.
+GitHub repo forked from https://github.com/ds4e/programmingLinks. Work is in the assignment folder.
